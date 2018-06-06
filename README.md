@@ -16,9 +16,10 @@ Steps:
 •	at least 500 unique (non-repeat) cities based on latitude and longitude.
 •	Perform a weather check on each of the cities using a series of successive API calls.
 •	Include a print log of each city as it's being processed with the city number, city name, and requested URL.
-•	Save both a CSV of all data retrieved and png images for each scatter plot.
+•	A CSV of all data retrieved and png images for each scatter plot are saved.
 
-written description of three observable trends based on the data
+WeatherPyReport.docx describes of three observable trends based on the charts.
+
 Tools:  Pandas, Matplotlib and Seaborn libraries.
 
 
