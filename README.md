@@ -13,13 +13,13 @@ A series of scatter plots generated to showcase the following relationships:
 •	Wind Speed (mph) vs. Latitude
 
 Steps:
-•	at least 500 unique (non-repeat) cities based on latitude and longitude.
+•	Generate a dataset of latitude and longitude of at least 500 unique (non-repeat) cities.
 •	Perform a weather check on each of the cities using a series of successive API calls.
 •	Include a print log of each city as it's being processed with the city number, city name, and requested URL.
 •	A CSV of all data retrieved and png images for each scatter plot are saved.
 
 WeatherPyReport.docx describes of three observable trends based on the charts.
 
-Tools:  Pandas, Matplotlib and Seaborn libraries.
+Tools:  Python, Pandas, Matplotlib and Seaborn libraries.
 
 
