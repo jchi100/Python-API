@@ -1,10 +1,8 @@
 # Python-API
 
-This project is to answer a fundamental question: "What's the weather like as we approach the equator?" 
+The project WeatherPy is to answer a fundamental question: "What's the weather like as we approach the equator?" 
 
-WeatherPy
-
-By creating a project with Python to visualize the weather of 500+ cities across the world of varying distance from the equator. A simple Python library, the OpenWeatherMap API is used to get latitude and longitude of world cities.
+With Jupiter Notebook, WeatherPy visualizes the weather of 500+ cities across the world of varying distance from the equator. A Python library, the OpenWeatherMap API is used to get latitude and longitude of world cities.
 
 A series of scatter plots generated to showcase the following relationships:
 •	Temperature (F) vs. Latitude
